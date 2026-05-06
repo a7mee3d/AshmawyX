@@ -1,0 +1,6 @@
+﻿{
+  "MinDelay": 0.2,
+  "MaxDelay": 0.8,
+  "ChatBlock": false,
+  "BlockedKeys": []
+}
